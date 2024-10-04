@@ -45,7 +45,7 @@ We welcome any feedback or suggestions to improve this project. You can submit s
 
 ### Blog Post
 
-Curious about how this project fits into the larger picture of religion in Nigeria? Read the blog post ["The Church Scene in Nigeria: A Quirky Overview"](https://awesomegoodman.vercel.app/blog/the-church-scene-in-nigeria-a-quirky-overview) by me, where you’ll find more about church distribution, metrics, and how they compare to schools and businesses in Nigeria. 
+Curious about how this project fits into the larger picture of religion in Nigeria? Read the blog post ["Nigeria's Church Scene: Breaking Down the Numbers"](https://awesomegoodman.vercel.app/blog/nigerias-church-scene-breaking-down-the-numbers) by me, where you’ll find more about church distribution, metrics, and how they compare to schools and businesses in Nigeria. 
 
 ### Acknowledgement
 
